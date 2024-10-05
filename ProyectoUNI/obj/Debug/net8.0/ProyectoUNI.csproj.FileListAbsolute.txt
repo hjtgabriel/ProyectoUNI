@@ -1,0 +1,14 @@
+C:\Users\DELL 5590\source\repos\ProyectoUNI\ProyectoUNI\bin\Debug\net8.0\ProyectoUNI.exe
+C:\Users\DELL 5590\source\repos\ProyectoUNI\ProyectoUNI\bin\Debug\net8.0\ProyectoUNI.deps.json
+C:\Users\DELL 5590\source\repos\ProyectoUNI\ProyectoUNI\bin\Debug\net8.0\ProyectoUNI.runtimeconfig.json
+C:\Users\DELL 5590\source\repos\ProyectoUNI\ProyectoUNI\bin\Debug\net8.0\ProyectoUNI.dll
+C:\Users\DELL 5590\source\repos\ProyectoUNI\ProyectoUNI\bin\Debug\net8.0\ProyectoUNI.pdb
+C:\Users\DELL 5590\source\repos\ProyectoUNI\ProyectoUNI\obj\Debug\net8.0\ProyectoUNI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5590\source\repos\ProyectoUNI\ProyectoUNI\obj\Debug\net8.0\ProyectoUNI.AssemblyInfoInputs.cache
+C:\Users\DELL 5590\source\repos\ProyectoUNI\ProyectoUNI\obj\Debug\net8.0\ProyectoUNI.AssemblyInfo.cs
+C:\Users\DELL 5590\source\repos\ProyectoUNI\ProyectoUNI\obj\Debug\net8.0\ProyectoUNI.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5590\source\repos\ProyectoUNI\ProyectoUNI\obj\Debug\net8.0\ProyectoUNI.dll
+C:\Users\DELL 5590\source\repos\ProyectoUNI\ProyectoUNI\obj\Debug\net8.0\refint\ProyectoUNI.dll
+C:\Users\DELL 5590\source\repos\ProyectoUNI\ProyectoUNI\obj\Debug\net8.0\ProyectoUNI.pdb
+C:\Users\DELL 5590\source\repos\ProyectoUNI\ProyectoUNI\obj\Debug\net8.0\ProyectoUNI.genruntimeconfig.cache
+C:\Users\DELL 5590\source\repos\ProyectoUNI\ProyectoUNI\obj\Debug\net8.0\ref\ProyectoUNI.dll
